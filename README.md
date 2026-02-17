@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**nakolkar16/nakolkar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nilima Akolkar — Data Scientist (Production DS / Applied ML)
 
-Here are some ideas to get you started:
+I’m a physicist/PhD-turned Data Scientist who likes problems where **data is messy, decisions matter, and “good enough” needs to be measurable**.
+My background at CERN shaped how I work: start with a baseline, validate hard, quantify uncertainty, and build workflows that others can trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I’m looking for **Data Scientist / Applied ML** roles (production DS or ML) where I can own problems end-to-end: **data → model/analysis → evaluation → delivery**.
+
+## What I’m good at
+- Turning noisy real-world data into **decision-ready** metrics and models
+- **Validation-first** modeling (leakage checks, time splits, backtests, error analysis)
+- Building **robust pipelines** (automation, reproducibility, clear handoffs)
+- Handling **uncertainty** (intervals, confidence bounds, risk-aware decisioning)
+- Communicating results so stakeholders can act (trade-offs, thresholds, guardrails)
+
+## Featured work
+- **Adset profitability scoring (pLTV vs CAC)** — weekly budget steering under incomplete attribution  
+  Dynamic 3–8 week lookback + binomial fallback; ~500–1000 adsets/week; contributed to ~20% ROI improvement  
+  👉 https://github.com/nakolkar16/adset-profitability-scoring
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/nakolkar/
+- Email: nilimaakolkar16@gmail.com
