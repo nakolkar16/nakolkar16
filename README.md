@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Nilima Akolkar — Data Scientist (Production DS / Applied ML)
+## Nilima Akolkar — Data Scientist (Production DS / Applied ML)
 
 I’m a physicist/PhD-turned Data Scientist who likes problems where **data is messy, decisions matter, and “good enough” needs to be measurable**.
 My background at CERN shaped how I work: start with a baseline, validate hard, quantify uncertainty, and build workflows that others can trust.
