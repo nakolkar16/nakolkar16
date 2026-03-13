@@ -12,10 +12,7 @@ Right now I’m looking for **Data Scientist / Applied ML** roles (production DS
 - Handling **uncertainty** (intervals, confidence bounds, risk-aware decisioning)
 - Communicating results so stakeholders can act (trade-offs, thresholds, guardrails)
 
-## Featured work
-- **Adset profitability scoring (pLTV vs CAC)** — weekly budget steering under incomplete attribution  
-  Dynamic 3–8 week lookback + binomial fallback; ~500–1000 adsets/week; contributed to ~20% ROI improvement  
-  👉 https://github.com/nakolkar16/adset-profitability-scoring
+
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/nakolkar/
